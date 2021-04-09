@@ -2,7 +2,7 @@
 - 👀 I’m interested in High Energy Physics.
 - 🌱 I’m currently learning Python and C++ .
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me at sabinthapa240@gmail.com
 
 <!---
 sabinthapa240/sabinthapa240 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
